@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ankit Kumar Pandey
 - 👀 I’m interested in building interesting products.
-- 🌱 I’m currently learning some really cool stuff.
-- 💞️ I’m looking to collaborate on **NLP**.
+- 🌱 I’m currently building some really cool stuff.
 - 📫 You reach me on [LinkedIn](https://www.linkedin.com/in/ankit0513/)
 
 <!---
