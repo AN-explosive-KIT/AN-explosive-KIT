@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ankit Kumar Pandey
+- 👋 Hi, I’m Ankit!
 - 🌱 I’m currently building some really cool stuff.
 - 📫 You reach me on [LinkedIn](https://www.linkedin.com/in/ankit0513/)
 
